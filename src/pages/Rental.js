@@ -108,7 +108,6 @@ export const Rental = () => {
     <RentalSection>
       <Container>
         <MainContainer>
-          <h1></h1>
           <p></p>
         </MainContainer>
         <Title>

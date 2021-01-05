@@ -1,5 +1,5 @@
-import React, { useRef, useState, useEffect } from "react";
-import styled, { css } from "styled-components/macro";
+import React from "react";
+import styled from "styled-components/macro";
 import { SustainData } from "../data/SustainData";
 import g from "../images/construction/g.jpg";
 

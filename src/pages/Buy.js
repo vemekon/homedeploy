@@ -109,7 +109,6 @@ export const Buy = () => {
     <RentalSection>
       <Container>
         <MainContainer g={img}>
-          <h1></h1>
           <p></p>
         </MainContainer>
         <Title>

@@ -1,5 +1,5 @@
-import react, { useState, useEffect } from "react";
-import { Link, Route, Switch } from "react-router-dom";
+import { useState, useEffect } from "react";
+import { Route, Switch } from "react-router-dom";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -11,7 +11,7 @@ import Navbar from "./components/Navbar";
 import GlobalStyle from "./globalStyles";
 import { Footer } from "./components/Footer";
 import { Main } from "./components/Main";
-import { Mortgage, Sustainability } from "./pages/Mortgage";
+import { Mortgage } from "./pages/Mortgage";
 import { Rental } from "./pages/Rental";
 import { Buy } from "./pages/Buy";
 import { ContactCEO } from "./pages/Contact-CEO";
