@@ -1,6 +1,6 @@
 {
-  "homepage": "http://vemekon.githup.io/estateagent",
-  "name": "construction",
+  "homepage": ".",
+  "name": "estateagent",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
